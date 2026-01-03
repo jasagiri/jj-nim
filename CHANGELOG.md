@@ -98,5 +98,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 156 comprehensive tests (all passing)
 - Type tests, adapter tests, mock tests, CLI tests
 
-[Unreleased]: https://github.com/GodsGolemInc/jj-nim/compare/v0.0.8...HEAD
-[0.0.8]: https://github.com/GodsGolemInc/jj-nim/releases/tag/v0.0.8
+[Unreleased]: https://github.com/jasagiri/jj-nim/compare/v0.0.8...HEAD
+[0.0.8]: https://github.com/jasagiri/jj-nim/releases/tag/v0.0.8
