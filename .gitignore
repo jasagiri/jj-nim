@@ -1,0 +1,41 @@
+# Nim build artifacts
+nimcache/
+nimblecache/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Nim compiled binaries (without extension)
+tests/test_all
+tests/test_types
+tests/test_adapter
+tests/test_mock
+tests/test_cli
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# nimble
+*.nimble.lock
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Documentation build
+htmldocs/
